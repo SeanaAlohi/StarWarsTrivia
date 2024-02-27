@@ -15,5 +15,9 @@ This is a mobile app made with Swift that connects to a StarWars API. In this ap
 
 <img src="https://github.com/SeanaAlohi/StarWarsTrivia/assets/148152470/64579f59-05c5-43df-8658-36230c5d092f" width=200 height=400>
 
-<img src="https://github.com/SeanaAlohi/StarWarsTrivia/assets/148152470/5f03425b-4e34-4474-af98-740ae4fe23dc)https://github.com/SeanaAlohi/StarWarsTrivia/assets/148152470/5f03425b-4e34-4474-af98-740ae4fe23dc" width=200 height=400>
+<img src="https://github.com/SeanaAlohi/StarWarsTrivia/assets/148152470/e33d4269-bf67-47eb-b3a8-431f174f8b7b" width=200 height=400>
+
+<img src="https://github.com/SeanaAlohi/StarWarsTrivia/assets/148152470/72731cb6-29af-4f0e-b14f-66ef832cdb1a" width=200 height=400>
+
+
 
